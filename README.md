@@ -1,5 +1,5 @@
-# Restaurant-List-demo-2-
-這是AC作業中的餐廳清單 (加上了刪減清單的版本)
+# Restaurant-List-demo-3-
+這是AC作業中的餐廳清單 (加上了刪減清單的版本，再重設了路由 使分工更完善)
 
 功能: 
 
